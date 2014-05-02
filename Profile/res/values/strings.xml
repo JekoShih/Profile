@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Profile</string>
+    <string name="title_item_detail">Item Detail</string>
+	<string name="item1">Personal Profile</string>
+	<string name="item2">Education</string>
+	<string name="item3">Work Experience</string>
+	<string name="item4">Training</string>
+	<string name="item5">Honors</string>
+	<string name="title">Jeko Shih</string>
+</resources>
